@@ -1,0 +1,13 @@
+From: 0 To: 1  Distance: 2 Km   Info: from tank to house1
+From: 0 To: 2  Distance: 3 Km   Info: from house to house 2
+From: 0 To: 3  Distance: 4 Km   Info: from 0 to 3
+From: 1 To: 3  Distance: 5 Km   Info: from 0 to 3
+From: 2 To: 3  Distance: 3 Km   Info: from 0 to 3
+From: 0 To: 1  Distance: 2 Km   Info: sdfsdfsdf
+From: 0 To: 3  Distance: 2 Km   Info: sdfsdf
+From: 0 To: 2  Distance: 3 Km   Info: adasdasd
+From: 3 To: 1  Distance: 5 Km   Info: asdadsad
+From: 0 To: 1  Distance: 3 Km   Info: qsqdad
+From: 0 To: 2  Distance: 3 Km   Info: asdasd
+From: 0 To: 3  Distance: 5 Km   Info: asdadas
+From: 1 To: 3  Distance: 5 Km   Info: asdasd
